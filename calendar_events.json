@@ -1,0 +1,47 @@
+[
+    {
+        "year": 2025,
+        "month": 6,
+        "day": 3,
+        "hour": 16,
+        "minute": 30,
+        "category": "锻炼",
+        "content": "保加利亚分腿蹲12*3组"
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "day": 4,
+        "hour": 0,
+        "minute": 0,
+        "category": "考试",
+        "content": "高数"
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "day": 29,
+        "hour": 16,
+        "minute": 30,
+        "category": "考试",
+        "content": "语文考试"
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "day": 1,
+        "hour": 16,
+        "minute": 30,
+        "category": "锻炼",
+        "content": "眼保健操"
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "day": 5,
+        "hour": 16,
+        "minute": 30,
+        "category": "锻炼",
+        "content": "死虫式每侧15次"
+    }
+]
